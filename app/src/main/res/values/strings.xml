@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fibornacciGroup</string>
+    <string name="enter_postion">Search position here</string>
+    <string name="position_error">Enter position between 1 - 1000</string>
+</resources>
